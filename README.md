@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GriffGeorgiadis
+- 👋 Hi, I’m Griffin Georgiadis
 - 👀 I’m interested in the environment, aerospace and web/game development. 
 - 🌱 I’m currently learning Node.js.
 - 📫 How to reach me, griffingeorgiadis@gmail.com.
