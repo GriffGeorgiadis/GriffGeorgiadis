@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Griffin Georgiadis
-- 👀 I’m interested in the environment, aerospace and web/game development. 
-- 🌱 I’m currently learning Node.js.
+- 👀 I’m interested in the renewable energy, environment, aerospace and web development. 
 - 📫 How to reach me, griffingeorgiadis@gmail.com.
 
 <!---
