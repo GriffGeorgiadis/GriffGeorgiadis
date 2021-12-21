@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Griffin Georgiadis
-- 👀 I’m interested in the renewable energy, environment, aerospace, data engineering and web development. 
+- 👀 I’m interested in renewable energy, environment, aerospace, data engineering and web development. 
 - 📫 How to reach me, griffingeorgiadis@gmail.com.
 
 <!---
